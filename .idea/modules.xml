@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/leetcodeGo.iml" filepath="$PROJECT_DIR$/leetcodeGo.iml" />
       <module fileurl="file://$PROJECT_DIR$/merge/merge.iml" filepath="$PROJECT_DIR$/merge/merge.iml" />
       <module fileurl="file://$PROJECT_DIR$/reverseLinkList/reverseLinkList.iml" filepath="$PROJECT_DIR$/reverseLinkList/reverseLinkList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack2queue2stack/stack2queue2stack.iml" filepath="$PROJECT_DIR$/stack2queue2stack/stack2queue2stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/单调栈/单调栈.iml" filepath="$PROJECT_DIR$/单调栈/单调栈.iml" />
       <module fileurl="file://$PROJECT_DIR$/单调队列/单调队列.iml" filepath="$PROJECT_DIR$/单调队列/单调队列.iml" />
       <module fileurl="file://$PROJECT_DIR$/实现计算器/实现计算器.iml" filepath="$PROJECT_DIR$/实现计算器/实现计算器.iml" />

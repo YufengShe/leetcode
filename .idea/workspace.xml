@@ -20,11 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b1f8b95-6f0c-4f0b-ad57-7421cecd2a7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/reverseLinkList/206_reverseList.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverseLinkList/92_reverseBetween.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverseLinkList/reverseLinkList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2queue2stack/queue2stack.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2queue2stack/stack2queue.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2queue2stack/stack2queue2stack.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,14 +66,16 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Go Build.go build 47_全排列.go">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build leetcodeGo">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,19 +105,20 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 355_shejiTwitter.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="merge" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/merge/355_shejiTwitter.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <configuration name="go build 47_全排列.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="backTrace" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/backTrace/47_全排列.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build leetcodeGo" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="leetcodeGo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="leetcodeGo" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -138,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build leetcodeGo" />
         <item itemvalue="Go Build.go build 47_全排列.go" />
         <item itemvalue="Go Build.go build 227.go" />
         <item itemvalue="Go Build.go build 224.go" />
         <item itemvalue="Go Build.go build queue.go" />
-        <item itemvalue="Go Build.go build 355_shejiTwitter.go" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +169,8 @@
       <workItem from="1615863054039" duration="12022000" />
       <workItem from="1615945326412" duration="33303000" />
       <workItem from="1616253279144" duration="5000" />
-      <workItem from="1616290578718" duration="8309000" />
+      <workItem from="1616290578718" duration="9122000" />
+      <workItem from="1616313026763" duration="2529000" />
     </task>
     <servers />
   </component>
@@ -182,6 +187,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -193,10 +199,10 @@
     <proxy>https://goproxy.io/</proxy>
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1080" y="76" key="new project wizard" timestamp="1616307712291">
+    <state x="-1080" y="76" key="new project wizard" timestamp="1616313059570">
       <screen x="-1080" y="-496" width="1080" height="1880" />
     </state>
-    <state x="-1080" y="76" key="new project wizard/-1080.-496.1080.1880/0.0.1920.1040@-1080.-496.1080.1880" timestamp="1616307712291" />
+    <state x="-1080" y="76" key="new project wizard/-1080.-496.1080.1880/0.0.1920.1040@-1080.-496.1080.1880" timestamp="1616313059570" />
     <state x="-884" y="202" key="run.anything.popup" timestamp="1616311209558">
       <screen x="-1080" y="-496" width="1080" height="1880" />
     </state>

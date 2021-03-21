@@ -4,15 +4,15 @@ import "fmt"
 
 func main() {
 
-	a := new(int)
-	*a = 2
+	a := make([]int, 0)
 
-	b := new(int)
-	*b = 2
+	b := a
 
-	fmt.Println(a == b)
+	for i:=0; i<30; i++ {
+		b = append(b,1)
+	}
 
-
+	fmt.Println(a, b)
 
 
 
