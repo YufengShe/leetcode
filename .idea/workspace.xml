@@ -20,9 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b1f8b95-6f0c-4f0b-ad57-7421cecd2a7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverseLinkList/206_reverseList.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverseLinkList/92_reverseBetween.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverseLinkList/reverseLinkList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BT/222_完全二叉树的节点个数.go" beforeDir="false" afterPath="$PROJECT_DIR$/BT/222_完全二叉树的节点个数.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +165,7 @@
       <workItem from="1615863054039" duration="12022000" />
       <workItem from="1615945326412" duration="33303000" />
       <workItem from="1616253279144" duration="5000" />
-      <workItem from="1616290578718" duration="4069000" />
+      <workItem from="1616290578718" duration="8309000" />
     </task>
     <servers />
   </component>
@@ -189,6 +191,20 @@
       </map>
     </environment>
     <proxy>https://goproxy.io/</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1080" y="76" key="new project wizard" timestamp="1616307712291">
+      <screen x="-1080" y="-496" width="1080" height="1880" />
+    </state>
+    <state x="-1080" y="76" key="new project wizard/-1080.-496.1080.1880/0.0.1920.1040@-1080.-496.1080.1880" timestamp="1616307712291" />
+    <state x="-884" y="202" key="run.anything.popup" timestamp="1616311209558">
+      <screen x="-1080" y="-496" width="1080" height="1880" />
+    </state>
+    <state x="-884" y="202" key="run.anything.popup/-1080.-496.1080.1880/0.0.1920.1040@-1080.-496.1080.1880" timestamp="1616311209558" />
+    <state x="-877" y="-61" width="672" height="678" key="search.everywhere.popup" timestamp="1616311204094">
+      <screen x="-1080" y="-496" width="1080" height="1880" />
+    </state>
+    <state x="-877" y="-61" width="672" height="678" key="search.everywhere.popup/-1080.-496.1080.1880/0.0.1920.1040@-1080.-496.1080.1880" timestamp="1616311204094" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
